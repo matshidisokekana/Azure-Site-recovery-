@@ -1,7 +1,9 @@
 
 ## **Azure Site Recovery**
 Azure Site Recovery provides comprehensive solutions that enable organizations to protect their critical applications and data in the event of an outage. In this project, I have explored the key features and functionality of Azure Site Recovery, including setting up protection for virtual machines and implementing failover mechanisms.
+
 ![](imageazure.png)
+
 # **Azure Site Recovery (ASR) Architecture**
 
 ## **Overview**
