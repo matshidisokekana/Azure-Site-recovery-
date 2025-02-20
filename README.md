@@ -10,7 +10,6 @@ This repository contains an Azure Site Recovery (ASR) architecture diagram demon
 
 ## **Architecture Diagram**
 ![Azure Site Recovery Diagram](recovery.avif)
-(*Replace with the correct image path.*)
 
 ## **Replication Setup**
 - **East US (Primary Site)**
